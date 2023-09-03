@@ -21,3 +21,6 @@ The data provided was from the years 2015-2019 and contained the following infor
 * Python
 * Jupyter Notebook
 * Tableau
+## Links to Data
+* https://www.kaggle.com/datasets/unsdsn/world-happiness
+* https://data.nasdaq.com/data/FRED/NGDPPOT-nominal-potential-gross-domestic-product
